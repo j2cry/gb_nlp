@@ -1,0 +1,2 @@
+Download dataset from:
+https://github.com/yutkin/Lenta.Ru-News-Dataset
